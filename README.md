@@ -1,5 +1,7 @@
 # Calidad de Software
 
+# Autor: Jostyn Rodriguez
+
 Este documento presenta una introducción breve a la calidad de software y a algunas prácticas esenciales para asegurar que una aplicación funcione correctamente, sea mantenible y cumpla con las necesidades del usuario.
 
 ## ¿Qué es la calidad de software?
